@@ -89,7 +89,7 @@ const Layout = ({children})=>{
                    }
                 </ul>
                 <button>
-                    <img src="images/icon.jpg" className="w-[45px] rounded-full"/>
+                    <img src="images/icon.jpg" className="w-[45px] rounded-full" alt="avatar"/>
                 </button>
             </nav>
 

@@ -7,11 +7,6 @@ import About from './components/about'
 import Contact from './components/contact'
 import 'font-awesome/css/font-awesome.min.css'
 
-
-const x = ()=> {
-  alert("Kashif")
-}
-
 const App = ()=>
   {
     return(
