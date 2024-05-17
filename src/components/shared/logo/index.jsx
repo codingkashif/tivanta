@@ -1,7 +1,7 @@
 const Logo = ({tagline=false})=>{
     return(
         <>
-            <img src="/images/logo.svg" className="w-[150px]"/>
+            <img src="/images/logo.svg" className="w-[150px]" alt="images"/>
             {
                 tagline &&
                 <p>
